@@ -5,8 +5,7 @@
 
 - 💬 Ask me about **Kubernetes, Odoo, Prometheus, Grafana**
 
-<p>&nbsp; <img src="https://stats.quira.sh/AnizR/github?theme=dark" alt="anizr" />
-&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=anizr&show_icons=true&locale=en" alt="anizr" />
+<p algin="center">&nbsp; <img src="https://stats.quira.sh/AnizR/github?theme=dark" alt="anizr" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
